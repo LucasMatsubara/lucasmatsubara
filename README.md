@@ -4,7 +4,7 @@
 
 ## Sobre
 
-<a><strong>Construo aplicações back-end em Java com Spring Boot, com foco em APIs REST, modelagem de dados relacional e boas práticas de código.</strong></a>
+<a>Construo aplicações back-end em Java com Spring Boot, com foco em APIs REST, modelagem de dados relacional e boas práticas de código.</a>
 <p>ㅤㅤㅤㅤㅤ</p>
 
 <div>
