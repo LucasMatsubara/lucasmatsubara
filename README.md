@@ -1,16 +1,16 @@
-<div align="center"> 
+<div> 
 <p> 🛜 Lucas Matsubara </p>
 <a><strong>Desenvolvedor back-end · Java | Spring | SQL</strong></a>
 </div>
 
 
-<div align="center"> 
+<div> 
 <p>Sobre</p>
 
 Construo aplicações back-end em Java com Spring Boot, com foco em APIs REST, modelagem de dados relacional e boas práticas de código. 
 </div>
 
-<div align="center">
+<div>
 <a href="https://github-stats-extended.vercel.app/api?username=lucasmatsubara">
   <picture>
     <source
@@ -23,7 +23,7 @@ Construo aplicações back-end em Java com Spring Boot, com foco em APIs REST, m
 </div>
 
 
-<div align="center" style="display: inline_block"><br>
+<div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
 
@@ -37,7 +37,7 @@ Construo aplicações back-end em Java com Spring Boot, com foco em APIs REST, m
 
 ---
 
-<div align="center"> 
+<div> 
 
   <a href = "mailto:lucasmatsubara11@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucasmatsubara11" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
