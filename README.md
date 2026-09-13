@@ -1,14 +1,10 @@
-<div> 
-<p> 🛜 Lucas Matsubara </p>
+# 🛜 Lucas Matsubara 
 <a><strong>Desenvolvedor back-end · Java | Spring | SQL</strong></a>
-</div>
 
 
-<div> 
-<p>Sobre</p>
+## Sobre
 
-Construo aplicações back-end em Java com Spring Boot, com foco em APIs REST, modelagem de dados relacional e boas práticas de código. 
-</div>
+<a><strong>Construo aplicações back-end em Java com Spring Boot, com foco em APIs REST, modelagem de dados relacional e boas práticas de código.</strong></a>
 
 <div>
 <a href="https://github-stats-extended.vercel.app/api?username=lucasmatsubara">
