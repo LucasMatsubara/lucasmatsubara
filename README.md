@@ -5,8 +5,8 @@
 ## Sobre
 
 <a><strong>Construo aplicações back-end em Java com Spring Boot, com foco em APIs REST, modelagem de dados relacional e boas práticas de código.</strong></a>
-<a>ㅤㅤㅤㅤㅤ</a>
-<a>ㅤㅤㅤㅤㅤ</a>
+<p>ㅤㅤㅤㅤㅤ</p>
+<p>ㅤㅤㅤㅤㅤ</p>
 
 
 <div>
