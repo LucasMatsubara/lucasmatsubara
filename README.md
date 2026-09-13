@@ -5,6 +5,8 @@
 ## Sobre
 
 <a><strong>Construo aplicações back-end em Java com Spring Boot, com foco em APIs REST, modelagem de dados relacional e boas práticas de código.</strong></a>
+<a></a>
+
 
 <div>
 <a href="https://github-stats-extended.vercel.app/api?username=lucasmatsubara">
