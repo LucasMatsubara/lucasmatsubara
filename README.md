@@ -1,8 +1,11 @@
-<h1>🛜 Lucas Matsubara</h1>
+#🛜 Lucas Matsubara
 
 <p>
-  <strong>Desenvolvedor back-end · Java & Spring</strong><br>
-  Estudante de Análise e Desenvolvimento de Sistemas
+  <strong>Desenvolvedor back-end · Java | Spring | SQL</strong><br>
+</p>
+
+<p>
+Estudante de Análise e Desenvolvimento de Sistemas
 </p>
 
 ---
