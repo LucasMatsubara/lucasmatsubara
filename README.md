@@ -1,4 +1,4 @@
-#🛜 Lucas Matsubara
+# 🛜 Lucas Matsubara
 
 <p>
   <strong>Desenvolvedor back-end · Java | Spring | SQL</strong><br>
