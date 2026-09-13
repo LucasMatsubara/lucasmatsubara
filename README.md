@@ -4,7 +4,9 @@
 
 ### Sobre
 
-<a>Construo aplicações back-end em Java com Spring Boot, com foco em APIs REST, modelagem de dados relacional e boas práticas de código.</a>
+<a>Construo aplicações back-end em Java com Spring Boot, com foco em APIs REST, modelagem de dados relacional e boas práticas de código. Atualmente estudo arquitetura de aplicações, testes automatizados e containerização, aplicando cada tema em projetos próprios que ficam aqui no GitHub.
+
+Buscando minha primeira oportunidade como desenvolvedor back-end.</a>
 <p>ㅤㅤㅤㅤㅤ</p>
 
 <div>
