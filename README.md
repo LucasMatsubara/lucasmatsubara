@@ -18,10 +18,10 @@ Construo aplicações back-end em Java com Spring Boot, com foco em APIs REST, m
 <a href="https://github-stats-extended.vercel.app/api?username=lucasmatsubara">
   <picture>
     <source
-      srcset="https://github-stats-extended.vercel.app/api?username=anuraghazra&theme=dark_github"
+      srcset="https://github-stats-extended.vercel.app/api?username=lucasmatsubara&theme=dark_github"
       media="(prefers-color-scheme: dark)"
     />
-    <img src="https://github-stats-extended.vercel.app/api?username=anuraghazra&theme=light_github" />
+    <img src="https://github-stats-extended.vercel.app/api?username=lucasmatsubara&theme=light_github" />
   </picture>
 </a>
 </div>
