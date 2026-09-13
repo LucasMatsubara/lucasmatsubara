@@ -1,21 +1,21 @@
 # 🛜 Lucas Matsubara
 
 
-<a><strong>Desenvolvedor back-end · Java | Spring | SQL</strong><br></a>
-<a>Estudante de Análise e Desenvolvimento de Sistemas</a>
+<p><strong>Desenvolvedor back-end · Java | Spring | SQL</strong><br></p>
+<p>Estudante de Análise e Desenvolvimento de Sistemas</p>
 
 
----
 
-### Sobre
+
+## Sobre
 
 Construo aplicações back-end em Java com Spring Boot, com foco em APIs REST, modelagem de dados relacional e boas práticas de código. Atualmente estudo arquitetura de aplicações, testes automatizados e containerização, aplicando cada tema em projetos próprios que ficam aqui no GitHub.
 
----
+
 
 <div align="center">
   <p>Dynamically generate GitHub stats for your READMEs.</p>
-<a href="https://github-stats-extended.vercel.app/api?username=anuraghazra">
+<a href="https://github-stats-extended.vercel.app/api?username=lucasmatsubara">
   <picture>
     <source
       srcset="https://github-stats-extended.vercel.app/api?username=anuraghazra&theme=dark_github"
@@ -26,7 +26,7 @@ Construo aplicações back-end em Java com Spring Boot, com foco em APIs REST, m
 </a>
 </div>
 
-### Tecnologias
+## Tecnologias
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
