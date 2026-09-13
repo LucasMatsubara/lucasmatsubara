@@ -9,12 +9,11 @@
 
 ## Sobre
 
-Construo aplicações back-end em Java com Spring Boot, com foco em APIs REST, modelagem de dados relacional e boas práticas de código. Atualmente estudo arquitetura de aplicações, testes automatizados e containerização, aplicando cada tema em projetos próprios que ficam aqui no GitHub.
+Construo aplicações back-end em Java com Spring Boot, com foco em APIs REST, modelagem de dados relacional e boas práticas de código. 
 
 
 
 <div align="center">
-  <p>Dynamically generate GitHub stats for your READMEs.</p>
 <a href="https://github-stats-extended.vercel.app/api?username=lucasmatsubara">
   <picture>
     <source
