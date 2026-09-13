@@ -3,7 +3,6 @@
 <p>
   <strong>Desenvolvedor back-end · Java | Spring | SQL</strong><br>
 </p>
-
 <p>
 Estudante de Análise e Desenvolvimento de Sistemas
 </p>
@@ -31,21 +30,6 @@ Buscando minha primeira oportunidade como desenvolvedor back-end.
   <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
   <img align="center" alt="Postman" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">
 </div>
-
-
----
-
-### Projetos
-
-| Projeto | Descrição | Stack |
-|---|---|---|
-
-
----
-
-### Estudando agora
-
-
 
 ---
 
