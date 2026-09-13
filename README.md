@@ -1,11 +1,9 @@
 # 🛜 Lucas Matsubara
 
-<a>
-  <strong>Desenvolvedor back-end · Java | Spring | SQL</strong><br>
-</a>
-<a>
-Estudante de Análise e Desenvolvimento de Sistemas
-</a>
+
+<a><strong>Desenvolvedor back-end · Java | Spring | SQL</strong><br></a>
+<a>Estudante de Análise e Desenvolvimento de Sistemas</a>
+
 
 ---
 
