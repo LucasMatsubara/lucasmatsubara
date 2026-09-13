@@ -1,5 +1,5 @@
 # 🛜 Lucas Matsubara 
-<a><strong>Desenvolvedor back-end · Java | Spring | SQL</strong></a>
+### Desenvolvedor back-end · Java | Spring | SQL
 
 
 ## Sobre
