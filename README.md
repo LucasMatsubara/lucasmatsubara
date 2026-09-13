@@ -11,9 +11,20 @@
 
 Construo aplicações back-end em Java com Spring Boot, com foco em APIs REST, modelagem de dados relacional e boas práticas de código. Atualmente estudo arquitetura de aplicações, testes automatizados e containerização, aplicando cada tema em projetos próprios que ficam aqui no GitHub.
 
-Buscando minha primeira oportunidade como desenvolvedor back-end.
-
 ---
+
+<div align="center">
+  <p>Dynamically generate GitHub stats for your READMEs.</p>
+<a href="https://github-stats-extended.vercel.app/api?username=anuraghazra">
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api?username=anuraghazra&theme=dark_github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-stats-extended.vercel.app/api?username=anuraghazra&theme=light_github" />
+  </picture>
+</a>
+</div>
 
 ### Tecnologias
 
