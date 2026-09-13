@@ -3,9 +3,6 @@
 **`Estudante de Análise e Desenvolvimento de Sistemas`**
 
 
-
----
-
 ### 🤖 Linguagens e Tecnologias
 
 <img 
