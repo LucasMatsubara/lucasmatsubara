@@ -1,11 +1,11 @@
 <div align="center"> 
-# 🛜 Lucas Matsubara
+<p> 🛜 Lucas Matsubara </p>
 <a><strong>Desenvolvedor back-end · Java | Spring | SQL</strong></a>
 </div>
 
 
 <div align="center"> 
-## Sobre
+<p>Sobre</p>
 
 Construo aplicações back-end em Java com Spring Boot, com foco em APIs REST, modelagem de dados relacional e boas práticas de código. 
 </div>
